@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @abdullah-rafiq
-- 👀 I’m interested in  WEB DEVELOPMENT and MOBILE APP DEVELOPMENT
-- 🌱 I’m currently learning WEB
-- 💞️ I’m looking FOR INTERNSHIP
+- 👀 I’m doing AI/ML DEVELOPMENT 
 - 📫 How to reach me mabdullahjoiya@gmail.com
 
 <!---
